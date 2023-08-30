@@ -1,0 +1,3 @@
+mở terminal chạy lệnh: 'npx create-react-app beginer'
+sau đó cd vào beginer: 
+npm start: chạy app
